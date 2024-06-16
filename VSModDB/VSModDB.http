@@ -1,0 +1,6 @@
+@VSModDB_HostAddress = http://localhost:5090
+
+GET {{VSModDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
